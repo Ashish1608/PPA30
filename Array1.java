@@ -1,3 +1,4 @@
+// Demo program for Array in java 
 import java.lang.*;
 
 class Array1
